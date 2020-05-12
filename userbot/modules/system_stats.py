@@ -140,7 +140,7 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`"
                      f"••••••••••••••••••••••••••••••• \n"
-                     "Aone-Kangbot is running, Enjoy! \n\n"
+                     "Ansour's KangBot is running, Enjoy that Shit! \n\n"
                      f"=============================== \n"
                      f"Telethon version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
@@ -148,7 +148,7 @@ async def amireallyalive(alive):
                      f"User: {DEFAULTUSER} \n"
                      f"••••••••••••••••••••••••••••••• \n"
                      " \n\n"
-                     "`")    
+                     "`")
 
 
 
